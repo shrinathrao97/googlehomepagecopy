@@ -1,0 +1,141 @@
+#body {
+
+	margin: 0px;
+	padding: 0px;	
+
+}
+
+.navbar {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbarLeftSide {
+	display: inline-block;
+	float: left;
+	padding-left: 2px;
+}
+
+.navbarRightSide {
+	display: inline-block;
+	float: right;
+	padding-right: 3px;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: gray;
+	padding: 8px;
+}
+
+.navbar a:hover {
+
+	color: black;
+
+}
+
+.sign-in-button {
+
+
+}
+
+.logoContainer {
+	display: block;
+	text-align: center;
+
+}
+
+.google-logo { 
+	width: 350px;
+	padding-top: 150px;
+	margin: 0px;
+	padding-bottom: 0px;
+}
+
+.search-bar {
+
+	margin-top: 15px;
+	text-align: center;
+
+}
+
+input{
+	width: 470px; 
+	height: 32px;
+	border: 1px solid silver;
+	border-radius:17px;
+}
+
+input:hover{
+	box-shadow: 0 0 1px;
+}
+
+.search-button-container {
+	margin-top: 30px;
+	text-align: center;
+
+}
+
+.search-button-container p{
+	font-size: 1.2em;
+	padding: 0px 10px 0px 10px;
+
+}
+.search-button {
+
+	border: none;
+	border-radius: 7px;
+	background-color: #F2F2F2;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.search-button:hover {
+	box-shadow: 0 0 1px;
+
+}
+
+
+
+
+.footer-container {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #F2F2F2;
+	box-shadow-top: 0 0 1px;
+}
+
+.fixed-footer {
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.fixed-footer-left {
+	display: inline-block;
+	float: left;
+	padding-bottom: 15px;
+}
+
+.fixed-footer-right{
+	display: inline-block;
+	float: right;
+	padding-bottom: 15px;
+
+}
+
+.fixed-footer a {
+	text-decoration: none;
+	color: gray;
+	padding: 8px;
+}
+
+.fixed-footer a:hover {
+
+	color: black;
+
+}

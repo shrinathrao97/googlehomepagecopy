@@ -1,0 +1,61 @@
+#body {
+
+	margin: 0px;
+	padding: 0px;	
+
+}
+
+.navbar {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbarLeftSide {
+	display: inline-block;
+	float: left;
+	padding-left: 2px;
+}
+
+.navbarRightSide {
+	display: inline-block;
+	float: right;
+	padding-right: 3px;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: gray;
+	padding: 8px;
+}
+
+.navbar a:hover {
+
+	color: black;
+
+}
+
+.logoContainer{
+	display: block;
+	text-align: center;
+
+}
+
+.google-logo{
+
+	padding-top: 20px;
+	width: 550px;
+}
+
+
+input{
+
+	border-radius: 50%;
+
+}
+
+
+
+
+
+
